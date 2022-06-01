@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE>details</TITLE>
+</HEAD>
+ <center>
+<BODY bgcolor="white">
+<FORM NAME="Personal details" ACTION="PAGE.PHP"  METHOD="GET"> 
+
+<table border = "2" bordercolor= "ligthblue" background-color="ligthbluer" height="400" width="900" cellspacing="0">
+<tr>
+   <td colspan="2" height="8%" bgcolor="white" >
+<a href="close"><img src="close.png" width="50" height="50" align="right"></a>
+<a href="expand"><img src="maximize.png" width="50" height="50" align="right"></a>
+<a href="minimize"><img src="minimize.png" width="50" height="50" align="right"></a>
+    </td>
+</tr>
+
+<tr>
+<td width="20%" height="50%" colspan="10" bgcolor="">
+
+ <p>Enter your details</p>
+    <center>ENTER NAME
+    <input type="text" name="sname" align="right"/>
+<br><br>
+  ENTER ADDRESS
+    <input type="text" name="address"/>
+	<br><br>
+	GENDER
+   <input type="radio" name="gender" value="male"> Male
+<input type="radio" name="gender" value="female"> Female<br>  
+	  <br><br>
+	<label for="INCOME GROUPS">INCOME GROUPS</label>
+	  <select id="INCOME GROUPS">
+  <option value="">mama</option>
+  <option value="">baba</option>
+  <option value="">kaka</option>
+  <option value="select " selected>Select</option>
+</select>
+<br><br>
+INTERESTS
+    <input type="checkbox" name="sports"/>
+      Sports<br>
+      <input type="checkbox" name="Business"/>
+      Business<b><br>
+      <input type="checkbox" name="Research"/>
+       Research<br>
+      <input type="checkbox" name="cultural"/>
+	    cultural
+	 </center>
+</td>
+</tr>
+<tr>
+   <td colspan="1" height="8%" bgcolor="blue" align="right">
+   <input type="Submit" name="submit">
+<input type="Reset" name="reset">
+    </td>
+</tr>
+	  </BODY>
+  </table>
+  </form>
+   </BODY>
+   </center>
+</HTML>
