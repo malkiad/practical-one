@@ -6,7 +6,7 @@
 <BODY bgcolor="white">
 <FORM NAME="Personal details" ACTION="PAGE.PHP"  METHOD="GET"> 
 
-<table border = "2" bordercolor= "ligthblue" background-color="ligthbluer" height="400" width="900" cellspacing="0">
+<table border = "2" bordercolor= "ligthblue" background-color="dark-blue" height="400" width="900" cellspacing="0">
 <tr>
    <td colspan="2" height="8%" bgcolor="white" >
 <a href="close"><img src="close.png" width="50" height="50" align="right"></a>
