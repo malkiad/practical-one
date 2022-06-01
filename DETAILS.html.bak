@@ -3,7 +3,7 @@
 <TITLE>details</TITLE>
 </HEAD>
  <center>
-<BODY bgcolor="white">
+<BODY bgcolor="blue">
 <FORM NAME="Personal details" ACTION="PAGE.PHP"  METHOD="GET"> 
 
 <table border = "2" bordercolor= "ligthblue" background-color="ligthbluer" height="400" width="900" cellspacing="0">
@@ -31,9 +31,9 @@
 	  <br><br>
 	<label for="INCOME GROUPS">INCOME GROUPS</label>
 	  <select id="INCOME GROUPS">
-  <option value="">mama</option>
-  <option value="">baba</option>
-  <option value="">kaka</option>
+  <option value="">babu</option>
+  <option value="">bibi</option>
+  <option value="">shangazi</option>
   <option value="select " selected>Select</option>
 </select>
 <br><br>
