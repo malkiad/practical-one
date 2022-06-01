@@ -3,7 +3,7 @@
 <TITLE>details</TITLE>
 </HEAD>
  <center>
-<BODY bgcolor="blue">
+<BODY bgcolor="white">
 <FORM NAME="Personal details" ACTION="PAGE.PHP"  METHOD="GET"> 
 
 <table border = "2" bordercolor= "ligthblue" background-color="ligthbluer" height="400" width="900" cellspacing="0">
